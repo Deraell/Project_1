@@ -129,7 +129,7 @@ body{
     background: linear-gradient(111.4deg, rgba(255, 255, 255, 0.45) 0%, rgba(255, 255, 255, 0) 100%);
     backdrop-filter: blur(2.5px);
     border-radius: 30px;
-    background-image: url(/IMG/image\ 8.svg);
+    background-image: url(/IMG/image.svg);
 }
 
 .new_arrivals{
